@@ -25,7 +25,7 @@ function Testimonials() {
                             ))}
                         </div>
                         <p className="text-gray-800 text-lg">
-                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.
                         </p>
                         <div className="flex items-center space-x-4 mt-4">
                             <Image
@@ -49,7 +49,7 @@ function Testimonials() {
                             ))}
                         </div>
                         <p className="text-gray-800 text-lg">
-                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.
                         </p>
                         <div className="flex items-center space-x-4 mt-4">
                             <Image
@@ -73,7 +73,7 @@ function Testimonials() {
                             ))}
                         </div>
                         <p className="text-gray-800 text-lg">
-                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.
                         </p>
                         <div className="flex items-center space-x-4 mt-4">
                             <Image
